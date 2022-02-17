@@ -4,3 +4,7 @@
 - 🦗 Never touch grasses and do exercises
 - 🕹 Helper/Chat manager of an infamous Minecraft server
 - 💀 Cringe
+
+### Socials
+- [Facebook](fb.com/phuclinhsama)
+- [Twitter](https://twitter.com/l1nhchan)
