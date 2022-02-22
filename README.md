@@ -5,6 +5,8 @@
 - 🕹 Helper/Chat manager of an infamous Minecraft server
 - 💀 Cringe
 
-### Socials
+<details><summary>Socials</summary>
+<p>
 - [Facebook](fb.com/phuclinhsama)
 - [Twitter](https://twitter.com/l1nhchan)
+  </p>
