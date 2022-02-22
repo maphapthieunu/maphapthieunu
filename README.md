@@ -7,6 +7,20 @@
 
 <details><summary>Socials</summary>
 <p>
+ 
 - [Facebook](fb.com/phuclinhsama)
 - [Twitter](https://twitter.com/l1nhchan)
-  </p>
+- [Reddit](https://reddit.com/u/phuclinhsama)
+
+</p></details>
+  
+<details><summary>Specs</summary>
+<p>
+
+- Model: [HP Pavilion 15-cs1045tx](https://support.hp.com/us-en/document/c06180145)
+- CPU: [Intel® Core™ i5-8265U](ark.intel.com/content/www/us/en/ark/products/149088/intel-core-i58265u-processor-6m-cache-up-to-3-90-ghz.html) with [Intel® UHD Graphics 620](ark.intel.com/content/www/us/en/ark/products/graphics/126789/intel-uhd-graphics-620.html) GPU
+- RAM: 4GB
+- Discrete GPU: [NVIDIA GeForce MX130](nvidia.com/en-us/geforce/gaming-laptops/mx130/specifications/)
+- OS: [Artix Linux](artixlinux.org) dual booted with [Windows 11 Pro for Workstations Insider Preview](microsoft.com/en-us/windows)
+  
+</p></details>
