@@ -8,9 +8,8 @@
 <details><summary>Socials</summary>
 <p>
  
-- [Facebook](https://fb.com/phuclinhsama)
-- [Twitter](https://twitter.com/l1nhchan)
-- [Reddit](https://reddit.com/u/phuclinhsama)
+- [Facebook](https://fb.com/s1stine)
+- [Twitter](https://twitter.com/s1stine)
 
 </p></details>
   
@@ -22,6 +21,14 @@
 - GPU: [Intel® UHD Graphics 620](https://ark.intel.com/content/www/us/en/ark/products/graphics/126789/intel-uhd-graphics-620.html)
 - RAM: 4GB (16GB soon if my dad finally let me buy RAMs online™)
 - Discrete GPU: [NVIDIA GeForce MX130](https://nvidia.com/en-us/geforce/gaming-laptops/mx130/specifications/)
-- OS: Pirated [Windows 11 Enterprise Insider Preview](https://microsoft.com/en-us/windows)
+- OS: Pirated [Windows 10 Enterprise LTSC 2021](https://microsoft.com/en-us/windows)
+  
+</p></details>
+
+<details><summary>Peripherals</summary>
+<p>
+
+- Keyboard: Logitech K120
+- Speakers: built in Bang & Olufsen speakers from my HP laptop
   
 </p></details>
